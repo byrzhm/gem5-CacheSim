@@ -24,5 +24,8 @@ Now run gem5 in docker.
 
 ## Related Resources
 
+- [gem5 github repo](https://github.com/gem5/gem5)
 - [erwanregy/Cache-Simulation](https://github.com/erwanregy/Cache-Simulation)
 - [gem5 101](https://www.gem5.org/documentation/learning_gem5/gem5_101/)
+- [gem5 hpca 2024](https://www.gem5.org/assets/files/hpca2024-tutorial/gem5-tutorial-hpca-2024-slides.pdf)
+- [getting started with gem5](https://www.gem5.org/getting_started/)
